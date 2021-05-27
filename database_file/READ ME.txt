@@ -1,0 +1,5 @@
+The SQL file only contains tables of the database. To install, please create a database and import the SQL file as tables.
+
+The database can be configuration can be found in {home_directory}/scss/conn.php
+
+Please forgive my poor file placements. This project was done in 2017 and in a hurry.
